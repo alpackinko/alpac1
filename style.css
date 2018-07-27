@@ -1,0 +1,25 @@
+h1 {
+  font-size: 60px;
+  text-align: center;
+  font-family: 'Monoton', cursive;
+  color: red;
+}
+
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  font-size: 15px; /* px means 'pixels': the base font size is now 15 pixels high  */
+  background-color: #efe6eb;
+  }
+
+ body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #fdd6b5;
+  padding: 0 20px 20px 20px;
+  
+}
